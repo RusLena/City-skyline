@@ -4,7 +4,7 @@ This project is based on the City Skyline challenge from FreeCodeCamp, with addi
 ## 📸 Screenshot
 
 Here’s what the City Skyline project looks like:
-<img src="Screenshot.png" alt="City Skyline Screenshot" width="600">
+<img src="Screenshot-2.png" alt="City Skyline Screenshot" width="600">
 
 ## ✨ Features
 
