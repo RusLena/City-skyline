@@ -6,7 +6,9 @@ This project is based on the City Skyline challenge from FreeCodeCamp, with addi
 Here’s what the City Skyline project looks like:
 <img src="Screenshot-2.png" alt="City Skyline Screenshot" width="600">
 
-[![Watch the demo](https://img.youtube.com/vi/vdxdgxov2m8/0.jpg)](https://youtu.be/vdxdgxov2m8)
+## Watch the Video
+
+[![Watch the video](https://img.youtube.com/vi/xbeN2go3G04/0.jpg)](https://youtu.be/xbeN2go3G04)
 
 
 ## ✨ Features
